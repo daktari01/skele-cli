@@ -1,3 +1,4 @@
+#MANIFEST.in
 exclude .gitignore
 exclude .coverage
 exclude .travis.yml
