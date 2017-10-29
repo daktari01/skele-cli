@@ -68,5 +68,3 @@ setup(
     },
     cmdclass = {'test': RunTests},
 )    
-
-
